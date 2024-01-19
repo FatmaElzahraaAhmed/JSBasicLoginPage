@@ -17,13 +17,13 @@ The login functionality is implemented in the script.js file. When the user clic
 To customize this login page for your application:
 
 1. Change Hardcoded Credentials:
-* Open script.js and modify the hardcoded username and password values to match those of your application.
+    * Open script.js and modify the hardcoded username and password values to match those of your application.
 
 2. Styling:
-* Customize the appearance of the login page by modifying the styles in the style.css file.
+    * Customize the appearance of the login page by modifying the styles in the style.css file.
 
 3. Integration:
-* Integrate the login functionality with your backend for proper user authentication.
+    * Integrate the login functionality with your backend for proper user authentication.
 
 ## Usage
 To use this login page:
